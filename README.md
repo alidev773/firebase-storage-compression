@@ -28,6 +28,10 @@ npm run build
 
 # Server
 
+## NOTE: CREATE SERVICE ACCOUNT JSON FILE AND PASTE THE SECRETS
+
+Paste the firebase service account configuration to server/src/service-account.json file
+
 Server is node express, containg the compression logic
 ## Installation
 
